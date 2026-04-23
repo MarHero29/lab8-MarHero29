@@ -1,6 +1,6 @@
 # TODO: 
 import sys
-
+#
 try:
     total_load = float(sys.argv[1])
     num_supports = float(sys.argv[2])
